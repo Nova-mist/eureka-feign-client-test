@@ -10,6 +10,7 @@
     <modules>
         <module>EurekaServer</module>
         <module>EurekaClient</module>
+        <module>FeignClient</module>
     </modules>
     
     <properties>

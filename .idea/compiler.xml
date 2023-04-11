@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="EurekaServer" />
         <module name="EurekaClient" />
+        <module name="FeignClient" />
       </profile>
     </annotationProcessing>
   </component>
